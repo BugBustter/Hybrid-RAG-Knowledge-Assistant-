@@ -20,6 +20,10 @@
 
 ---
 
+## Screenshot
+<img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 07_30_03 AM" src="https://github.com/user-attachments/assets/c935e2e7-d1c1-4c5c-be6a-f5d4422f98a8" />
+
+
 # 📌 Project Overview
 
 **DocuMind AI** is a secure, enterprise-grade Hybrid Retrieval-Augmented Generation (RAG) platform that enables users to upload documents, perform semantic search, and receive context-aware answers powered by Large Language Models (LLMs).
