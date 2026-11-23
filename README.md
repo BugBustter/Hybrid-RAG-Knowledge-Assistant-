@@ -14,7 +14,7 @@
 
 # 🌐 Live Demo
 
-**🔗 Deployment:** https://your-deployment-link.com(Under Maintainence)
+**🔗 Deployment:** https://your-deployment-link.com   (Under Maintainence)
 
 **🎥 Demo Video:** https://your-demo-video-link.com
 
